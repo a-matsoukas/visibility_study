@@ -27,7 +27,7 @@ imgui.ini
 *.lai
 *.la
 *.a
-*.lib
+# *.lib
 
 # Executables
 *.exe
